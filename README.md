@@ -1,7 +1,7 @@
 # pedestrain-tracking-final-project
 PedestrianTrack Project
 
-🏁 Project Overview
+# Project Overview
 
 The PedestrianTrack project aims to analyze pedestrian movement patterns using a combination of feature engineering and machine learning. The goal is to classify different pedestrian behaviors based on spatial and motion data.
 # Dataset
