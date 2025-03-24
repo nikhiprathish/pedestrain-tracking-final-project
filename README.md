@@ -35,7 +35,7 @@ scikit-learn
 imblearn
 Joblib 
 Warnings 
-# Results
+# Output
 Best-performing model: Random Forest Classifier
 Achieved accuracy:0.97%
 # Machine Learning Pipeline
