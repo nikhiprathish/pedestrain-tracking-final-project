@@ -4,7 +4,9 @@ PedestrianTrack Project
 🏁 Project Overview
 
 The PedestrianTrack project aims to analyze pedestrian movement patterns using a combination of feature engineering and machine learning. The goal is to classify different pedestrian behaviors based on spatial and motion data.
-
+# Dataset
+Source:
+UCI Machine Learning Repository:https://archive.ics.uci.edu/dataset/536/pedestrian+in+traffic+dataset
 
 # Features
 oid: Unique ID for each pedestrian.
