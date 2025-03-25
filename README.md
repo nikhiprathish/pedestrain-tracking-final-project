@@ -50,7 +50,7 @@ Model Training: Training a Random Forest Classifier within the pipeline.
 The pedestrian tracking project successfully achieved its objective of predicting pedestrian interactions using geospatial and time-series data. After extensive data preprocessing, feature engineering, and model evaluation, Random Forest emerged as the best-performing model, achieving an impressive .97% accuracy. This high accuracy demonstrates the model's strong ability to capture complex patterns in pedestrian movements and interactions with surrounding objects.
 The model’s performance on unseen data, consistently predicting [3, 3, 3, 3, 3, 3, 3], suggests a high confidence in classifying that specific interaction type. However, this also raises a potential point for further analysis — whether the model generalizes well across all classes or overfits to a dominant class.
 The project highlights the strength of ensemble methods like Random Forest in handling noisy, multidimensional data, especially when dealing with a mix of spatial, temporal, and categorical features. 
-# Future work could focus on:
+# Future work could focus on:🎯
 Expanding the dataset to include more diverse pedestrian scenarios and environmental contexts.
 Handling class imbalances to ensure the model performs equally well across all interaction types.
 Integrating real-time tracking to test the model in dynamic, live environments.Refining feature engineering to extract more insightful patterns from orientation metrics and object proximity.
@@ -77,5 +77,3 @@ Extract more nuanced patterns from body_yaw, head_pitch, and object proximity me
 
 # ⭐ Final Takeaways
 This project demonstrates the power of machine learning — particularly ensemble methods like Random Forest — in analyzing pedestrian behavior. With further refinement, this model could support a wide range of applications in urban planning, public safety, and smart city development — contributing to safer, more efficient environments for pedestrians. 🚶‍♂️✨
-
-Would you like me to create a presentation slide outline or visual charts for the results too? 🎯
